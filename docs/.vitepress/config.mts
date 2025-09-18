@@ -5,6 +5,7 @@ export default defineConfig({
   title: "DILFYSCPS",
   description: "Scenepack Directory",
   themeConfig: {
+    logo: 'https://www.freepnglogos.com/uploads/cum-png/cum-white-splatter-clip-art-clkerm-vector-clip-art-9.png',
     search: {
       provider: 'local'
     },
