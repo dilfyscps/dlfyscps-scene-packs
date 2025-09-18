@@ -6,6 +6,23 @@ export default defineConfig({
   title: "DILFYSCPS",
   description: "Scenepack Directory",
   themeConfig: {
+    sidebar: [
+      {
+        text: 'Home',
+        link: '/',
+      },
+      {
+        text: 'Scenepacks',
+        collapsed: true,
+        items: [
+          { text: 'Tv Shows', link: '/tvshows'},
+          { text: 'Movies', link: '/movies'},
+          { text: 'Tiktokers', link: '/tiktokers'},
+          { text: 'Celebs', link: '/celebs'},
+          { text: 'Trailers', link: '/trailers'}
+        ]
+      }
+    ],
     logo: 'https://www.freepnglogos.com/uploads/cum-png/cum-white-splatter-clip-art-clkerm-vector-clip-art-9.png',
     search: {
       provider: 'local'

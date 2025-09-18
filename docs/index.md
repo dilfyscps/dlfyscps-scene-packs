@@ -6,14 +6,17 @@ layout: home
 hero:
   name: "DILFYSCPS"
   text: ""
-  tagline: Official Scenepack Directory
+  tagline: Official Scenepack Directory.
+  image:
+    src: 'https://i.ibb.co/VYpq7m0t/logo-4.png'
+    alt: DILFYSCPS
   
 
   actions:
     - theme: brand
       text: Tiktok Account
       link: https://www.tiktok.com/@ktrivae
-    - theme: brand
+    - theme: alt
       text: Instagram [V1]
       link: https://www.instagram.com/dilfyscps/
     - theme: brand
