@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/Users/bzvelae/dilfscps/favicon.ico' }]],
   title: "DILFYSCPS",
   description: "Scenepack Directory",
   themeConfig: {
@@ -14,5 +15,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Scenepack Requests (Not Available)', link: '/markdown-examples' }
     ],
+
   }
 })
