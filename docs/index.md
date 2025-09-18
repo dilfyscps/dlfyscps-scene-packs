@@ -13,13 +13,13 @@ hero:
   
 
   actions:
-    - theme: brand
+    - theme: alt
       text: Tiktok Account
       link: https://www.tiktok.com/@ktrivae
     - theme: alt
       text: Instagram [V1]
       link: https://www.instagram.com/dilfyscps/
-    - theme: brand
+    - theme: alt
       text: Instagram [V2]
       link: https://www.instagram.com/cvmscps/
       
