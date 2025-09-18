@@ -5,7 +5,7 @@ layout: home
 
 hero:
   name: "DILFYSCPS"
-  text: "Test"
+  text: ""
   tagline: Official Scenepack Directory
   
 
