@@ -9,15 +9,28 @@ hero:
   tagline: Official Scenepack Masterlist.
   
   actions:
+    - theme: brand
+      text: Affiliates
+      link: /affiliates
+    - theme: brand
+      text: FAQ
+      link: /faq
+    - theme: brand
+      text: RULES
+      link: /rules
+
     - theme: alt
-      text: Tiktok Account
-      link: https://www.tiktok.com/@ktrivae
-    - theme: alt
-      text: Instagram [V1]
+      text: Dilfyscps Insta
       link: https://www.instagram.com/dilfyscps/
     - theme: alt
-      text: Instagram [V2]
+      text: Cvmscps Insta
       link: https://www.instagram.com/cvmscps/
+    - theme: alt
+      text: Dilfyscps Tiktok
+      link: https://www.tiktok.com/@ktrivae/
+    - theme: alt
+      text: Cvmscps Tiktok
+      link: https://www.tiktok.com/@cvmscps/
 
 
 features:

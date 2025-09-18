@@ -17,11 +17,32 @@ export default defineConfig({
         text: 'Scenepacks',
         collapsed: true,
         items: [
-          { text: 'Tv Shows', link: '/tvshows'},
-          { text: 'Movies', link: '/movies'},
-          { text: 'Tiktokers', link: '/tiktokers'},
-          { text: 'Celebs', link: '/celebs'},
-          { text: 'Trailers', link: '/trailers'}
+          { text: 'TV SHOWS', link: '/tvshows'},
+          { text: 'MOVIES', link: '/movies'},
+          { text: 'TIKTOKERS', link: '/tiktokers'},
+          { text: 'CELEBS', link: '/celebs'},
+          { text: 'TRAILERS', link: '/trailers'}
+        ]
+        
+      },
+      {
+        text: 'Others',
+        collapsed: true,
+        items: [
+          { text: 'AFFILIATES', link: '/affiliates'},
+          { text: 'FAQ', link: '/faq'},
+          { text: 'RULES', link: '/rules'},
+        ]
+
+      },
+      {
+        text: 'Socials',
+        collapsed: true,
+        items: [
+          { text: 'DILFYSCPS IG', link: 'https://instagram.com/dilfyscps'},
+          { text: 'CVMSCPS IG', link: 'https://instagram.com/cvmscps'},
+          { text: 'DILFYSCPS TIKTOK', link: 'https://tiktok.com/@ktrivae'},
+          { text: 'CVMSCPS TIKTOK', link: 'https://tiktok.com/@cvmscps'}
         ]
       }
     ],
