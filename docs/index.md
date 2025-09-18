@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "DILFYSCPS"
   text: ""
-  tagline: Official Scenepack Directory.
+  tagline: Official Scenepack Masterlist.
   
   actions:
     - theme: alt
@@ -18,7 +18,7 @@ hero:
     - theme: alt
       text: Instagram [V2]
       link: https://www.instagram.com/cvmscps/
-      
+
 
 features:
   - title: TV SHOWS
