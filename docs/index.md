@@ -18,20 +18,9 @@ hero:
     - theme: brand
       text: RULES
       link: /rules
-
-    - theme: alt
-      text: Dilfyscps Insta
-      link: https://www.instagram.com/dilfyscps/
-    - theme: alt
-      text: Cvmscps Insta
-      link: https://www.instagram.com/cvmscps/
-    - theme: alt
-      text: Dilfyscps Tiktok
-      link: https://www.tiktok.com/@ktrivae/
-    - theme: alt
-      text: Cvmscps Tiktok
-      link: https://www.tiktok.com/@cvmscps/
-
+    - theme: brand
+      text: SOCIALS
+      link: /socials
 
 features:
   - title: TV SHOWS
@@ -52,11 +41,6 @@ features:
 
 ---
 
-
-
-
-## Scenepack Details
-My scenepacks are always 1080p or 4K if possible with 23.976 FPS.
 
 ## Credit Details
 If you're going to use my scenepacks please credit [Ktrivae](https://tiktok.com/@ktrivae) or [Dilfyscps](https://www.instagram.com/dilfyscps/)
