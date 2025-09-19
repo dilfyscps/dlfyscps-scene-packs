@@ -29,7 +29,7 @@ features:
   - title: MOVIES
     details: Scenepacks of MOVIES. Ex "Spider-Man" & "Superman"
     link: /movies
-  - title: TIKTOKERS
+  - title: TIKTOKERS & OF CREATORS
     details: Scenepacks of TIKTOKERS. Ex "Vinnie Hacker" & "Bach Buqen"
     link: /tiktokers
   - title: CELEBS

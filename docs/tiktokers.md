@@ -113,3 +113,18 @@ Packs - 1080P, 23.976 FPS
 Packs - 1080P, 23.976 FPS
 - [MEGA](https://mega.nz/folder/ILYhTRbb#VaaeON637R0WVKY0TG8kVA)
 ---
+
+## NICOLASACOSTA
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/xCQh1JRA#PCT1IBId7sIWRStpguPb_w)
+---
+
+## MALIK DELGATY
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/UCYFRaDZ#fm2Wm34Hib-iOvPkx0Wf0A)
+---
+
+## YESBRAWN
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/VKZXSZQb#Kq0xW7TgSivAS_vQrb9iLw)
+---

@@ -19,7 +19,7 @@ export default defineConfig({
         items: [
           { text: 'TV SHOWS', link: '/tvshows'},
           { text: 'MOVIES', link: '/movies'},
-          { text: 'TIKTOKERS', link: '/tiktokers'},
+          { text: 'TIKTOKERS & OF CREATORS', link: '/tiktokers'},
           { text: 'CELEBS', link: '/celebs'},
           { text: 'TRAILERS', link: '/trailers'}
         ]
