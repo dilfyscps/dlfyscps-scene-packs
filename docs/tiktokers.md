@@ -128,3 +128,38 @@ Packs - 1080P, 23.976 FPS
 Packs - 1080P, 23.976 FPS
 - [MEGA](https://mega.nz/folder/VKZXSZQb#Kq0xW7TgSivAS_vQrb9iLw)
 ---
+
+## EVAN LAMICELLA
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/4LAG1bCQ#2vk6quh2fAPBX8TigF8h6Q)
+---
+
+## CASHMONEYRK
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/tXJmkSxa#vpC6sL82b0OCJvbJt1JYjg)
+---
+
+## DARRELL JONES
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/ZPQExaKI#DsNmBqxUIHcROttCWcjZKA)
+---
+
+## HUNTER.FITT
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/ZKI03L5Y#1GP5JEqWQ3m_xG1w33c5TQ)
+---
+
+## PIETRO BOSELLI
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/AThCCLKR#MaWBNfiOaqc8-yl_U2zB1A)
+---
+
+## ETHAN DURANT
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/lTpCSIDZ#7DRMjF34lhlZWWAQSBcLRw)
+---
+
+## RAFAEL ALENCAR
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/9LRDjCwR#eQ5s2o4JvmJNpqMWVv7pHg)
+---
