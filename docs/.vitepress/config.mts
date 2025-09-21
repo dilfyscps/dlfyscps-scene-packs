@@ -6,6 +6,7 @@ export default defineConfig({
   
   title: "DILFYSCPS",
   description: "Scenepack Directory",
+  head: [['link', { rel: 'icon', href: 'docs/public/favicon.ico' }]],
   themeConfig: {
     sidebar: [
       {
