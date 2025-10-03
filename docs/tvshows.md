@@ -5,6 +5,10 @@ outline: deep
 # TV SHOW SCENEPACKS
 - [BACK TO DILFYSCPS MASTERLIST](/dilfyscps)
 
+## Monster: The Ed Gein Story
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/VMlCGRjB#LEScv6MXV2OdfUz236a-Vw)
+---
 
 ## Gen V - Season 2
 Packs - 1080P, 23.976 FPS
