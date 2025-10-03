@@ -10,7 +10,7 @@ hero:
   
   actions:
     - theme: brand
-      text: Affiliates
+      text: AFFILIATES
       link: /affiliates
     - theme: brand
       text: FAQ
@@ -23,21 +23,12 @@ hero:
       link: /socials
 
 features:
-  - title: TV SHOWS
-    details: Scenepacks of TV SHOWS. Ex "GEN V" & "Wednesday"
-    link: /tvshows
-  - title: MOVIES
-    details: Scenepacks of MOVIES. Ex "Spider-Man" & "Superman"
-    link: /movies
-  - title: TIKTOKERS & OF CREATORS
-    details: Scenepacks of TIKTOKERS. Ex "Vinnie Hacker" & "Bach Buqen"
-    link: /tiktokers
-  - title: CELEBS
-    details: Scenepacks of CELEBS. Photopacks & Interviews
-    link: /celebs
-  - title: TRAILERS
-    details: Scenepacks of TRAILERS. Ex "The Ed Gein Story"
-    link: /trailers
+  - title: DILFYSCPS
+    details: Click here for DILFYSCPS Scenepacks!
+    link: /dilfyscps
+  - title: CVMSCPS
+    details: Click here for CVMSCPS Scenepacks!
+    link: /cvmscps
 
 ---
 
