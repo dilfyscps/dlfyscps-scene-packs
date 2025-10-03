@@ -5,7 +5,7 @@ layout: home
 
 hero:
   name: "DILFYSCPS"
-  text: "TESTING"
+  text: ""
   tagline: Official Scenepack Masterlist.
   
   actions:
