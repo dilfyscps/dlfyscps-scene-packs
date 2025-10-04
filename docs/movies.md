@@ -1,8 +1,15 @@
 ---
-outline: deep
+
+layout: home
+
+
+hero:
+  name: "MOVIE SCENEPACKS"
+  text: ""
+  tagline: Scenepack Requests are open!
 ---
-# MOVIE SCENEPACKS ↓
-- [BACK TO DILFYSCPS MASTERLIST](/dilfyscps)
+
+- [BACK TO HOMEPAGE](/index)
 
 ## 365 Days
 Packs - 1080P, 23.976 FPS

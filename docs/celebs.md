@@ -1,7 +1,15 @@
 ---
-outline: deep
+
+layout: home
+
+
+hero:
+  name: "CELEB SCENEPACKS"
+  text: ""
+  tagline: Scenepack Requests are open!
 ---
-# CELEB SCENEPACKS ↓
+
+- [BACK TO HOMEPAGE](/index)
 
 
 ## DAVID CORENSWET

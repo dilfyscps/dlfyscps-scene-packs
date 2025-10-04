@@ -1,9 +1,15 @@
 ---
-outline: deep
----
-# TEASERS & TRAILERS ↓
-- [BACK TO DILFYSCPS MASTERLIST](/dilfyscps)
 
+layout: home
+
+
+hero:
+  name: "TEASERS & TRAILERS"
+  text: ""
+  tagline: Scenepack Requests are open!
+---
+
+- [BACK TO HOMEPAGE](/index)
 ## The Ed Gein Story - Official Trailers
 Packs - 1080P, 23.976 FPS
 

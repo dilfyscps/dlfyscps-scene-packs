@@ -53,7 +53,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Scenepack Requests', link: 'https://www.instagram.com/p/DO15P_dkrJT/?utm_source=ig_web_copy_link&igsh=MWxpcmY4bWMyMnJx' }
+      { text: 'DILFYSCPS Requests', link: 'https://www.instagram.com/p/DO15P_dkrJT/?utm_source=ig_web_copy_link&igsh=MWxpcmY4bWMyMnJx' },
+      { text: 'CVMSCPS Requests', link: 'https://www.instagram.com/p/DOkcT32DCQN/' }
     ],
 
   }

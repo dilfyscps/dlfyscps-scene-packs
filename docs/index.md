@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "DILFYSCPS"
   text: ""
-  tagline: Official Scenepack Masterlist.
+  tagline: Official Scenepack Masterlist for DILFYSCPS & CVMSCPS.
   
   actions:
     - theme: brand
@@ -23,12 +23,24 @@ hero:
       link: /socials
 
 features:
-  - title: DILFYSCPS
-    details: Click here for DILFYSCPS Scenepacks!
-    link: /dilfyscps
-  - title: CVMSCPS
-    details: Click here for CVMSCPS Scenepacks!
-    link: /cvmscps
+  - title: TV SHOWS
+    details: Scenepacks of TV SHOWS. Example "GEN V" & "Wednesday"
+    link: /tvshows
+  - title: MOVIES
+    details: Scenepacks of Movies. Example "Spider-Man" & "Superman"
+    link: /movies
+  - title: TRAILERS
+    details: Scenepacks of TRAILERS. Example "The Ed Gein Story" & "Wicked For Good"
+    link: /trailers
+  - title: CELEBS
+    details: Scenepacks of CELEBS. Example "Pedro Pascal" & "David Corenswet"
+    link: /celebs
+  - title: TIKTOKERS
+    details: Scenepacks of TV SHOWS. Example "Bach Buquen" & "Vinnie Hacker"
+    link: /tiktokers
+  - title: ONLYFANS CREATORS
+    details: Scenepacks of ONLYFANS CREATORS. Example "Jakipz " & "Loganwall"
+    link: /onlyfans
 
 ---
 

@@ -1,7 +1,15 @@
 ---
-outline: deep
+
+layout: home
+
+
+hero:
+  name: "TIKTOKER SCENEPACKS"
+  text: ""
+  tagline: Scenepack Requests are open!
 ---
-# TIKTOKER SCENEPACKS ↓
+
+- [BACK TO HOMEPAGE](/index)
 
 ## NOAH
 Packs - 1080P, 23.976 FPS
