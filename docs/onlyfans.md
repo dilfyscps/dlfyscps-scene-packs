@@ -27,7 +27,7 @@ Packs - 1080P, 23.976 FPS
 
 ## MALIK DELGATY
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/UCYFRaDZ#fm2Wm34Hib-iOvPkx0Wf0A)
+- [MEGA](https://mega.nz/folder/UCYFRaDZ#fm2Wm34Hib-iOvPkx0Wf0A/folder/dHB0FRba)
 
 ## YESBRAWN
 Packs - 1080P, 23.976 FPS
