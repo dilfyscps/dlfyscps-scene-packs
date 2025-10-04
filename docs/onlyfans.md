@@ -9,10 +9,6 @@ hero:
   tagline: 
 ---
 
-## Nicholas Ryder
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/NNNCWAqA#BYHCAbgJ4Et8YyzHoUgP_Q)
-
 ## RAFAEL ALENCAR
 Packs - 1080P, 23.976 FPS
 - [MEGA](https://mega.nz/folder/9LRDjCwR#eQ5s2o4JvmJNpqMWVv7pHg)
