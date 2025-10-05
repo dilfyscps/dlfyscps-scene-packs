@@ -114,3 +114,11 @@ Packs - 1080P, 23.976 FPS
 ## ETHAN DURANT
 Packs - 1080P, 23.976 FPS
 - [MEGA](https://mega.nz/folder/lTpCSIDZ#7DRMjF34lhlZWWAQSBcLRw)
+
+## REILLY GOLDEN
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/8QFHhZYJ#dZM3FhawkbJXdVNVpwWZ3A)
+
+## LUUKE_V3
+Packs - 1080P, 23.976 FPS
+- [MEGA](https://mega.nz/folder/ZNUm1YqY#KPdlgEJ3dJOgCJLtjfJC1Q)
