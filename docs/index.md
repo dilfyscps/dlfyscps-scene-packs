@@ -41,7 +41,9 @@ features:
   - title: ONLYFANS CREATORS
     details: Scenepacks of ONLYFANS CREATORS. Example "Jakipz " & "Loganwall"
     link: /onlyfans
-
+  - title: OTHERS
+    details: Scenepacks of Random People.
+    link: /others
 ---
 
 
