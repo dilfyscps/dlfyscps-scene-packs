@@ -17,71 +17,59 @@ Packs - 1080P, 23.976 FPS
 
 ## Anyone But You
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/RLhAgaoA#egOPZ3kxtIn14-4bZf4sGQ)
+- [Ben](https://mega.nz/file/gbhUnS7R#KRwfunQ1vZH9i_6vYK4S5o6oj8Lqc0EcC94vZo8OTEM)
 
 ## Brokeback Mountain
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/1TpCXSjI#Y8FK8OVVyPwGhsO2_BzkeQ)
+- [Jack Twist](https://mega.nz/file/Zbh0zB6I#-0PtnF2Z5hL6jRMsVNz9fEkVlWpn1JvNdzX-6RXcakw)
 
 ## Bullet Train
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/gWBHiT4T#Hc_0xjdBj-lDgeOwdQD1uw)
+- [Tangerine](https://mega.nz/file/pXpHlISJ#e3zSh82No1ounPQMaaNDdYfz4r7uaqf3QgChFI0IDKM)
 
 ## Divergent
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/cT5AXJBJ#zhHSzKUcs0Q3xwz6o-6CTw)
+- [Four](https://mega.nz/file/JTRzEYoa#AUZXhgiQka3EYx0Lmi44CJxRdMi5Sqm79F9NBqZlWBs)
 
 ## Enola Holmes
 Packs - 1080P, 23.976 FPS
 - [MEGA](https://mega.nz/folder/EehGSbJA#w35Lg_7JcLaJdoHIwuMETA)
 
-## Fifty Shades of Grey
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/VeQwwIDT#aLt7xBbag4IpuyBa76sybA)
-
 ## Firebird
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/QCpl3KYB#LD76oDdFjBOvYO6oiXLu6Q)
+- [Roman Matwiejew](https://mega.nz/file/hfQVRIDZ#vn_B8lC8aLPq9_B0Zki2MfrbJ7vQ7TsK-D-PXG1AQIU), [Sergey](https://mega.nz/file/cbAE3bRQ#bFBDS-ZWWthnuyoyIV9A4g6qBk68Xobty6F8JVfZKuQ)
 
 ## Havoc
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/oP4DnDhQ#bYsr41jDWuOm85xHQUAGtw)
+- [Walker](https://mega.nz/file/oeZhxKYZ#k7tY_K-mTkDHhHr5Iff_b6Zvo9Ilbc9YU4i0cRlEjxk)
 
 ## I Know What You Did Last Summer
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/UT4ylDKL#AvkrH1kbge2ujIT2IqwOVw)
+- [Milo Griffin](https://mega.nz/file/VSwwQIAa#K6yPqXnNOFY_C2xD4LrBMX72FGEuU6Ld6LC95J7BV-0), [Teddy Spencer](https://mega.nz/file/MPJlWYjZ#KL0QGq42k7fTkK--WeEDRBfIULw7TN0BYd1L_qTIjhM)
 
 ## Immortals
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/RWZCWKZb#qU7ikvIo6jrv4EE3BeurYg)
+- [Theseus](https://mega.nz/file/BXwDwaDI#ewoZJXkVvSxugYogGWlFVUvPVb5R5Q7oQZNkot2Nc1I)
 
 ## Insurgent
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/0KInRaRY#NkAesKY45kwB03lnHWC7vQ)
+- [Four](https://mega.nz/file/xCw21RAR#5dOz5fhYAhvkfqoBqVB4vQT6ogpqAKsa_XyVdy0wGlw)
 
 ## Jurassic World Rebirth
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/MCBkBS4L#q7lYdsvwJ9yl3sd1W6GoUg)
+- [Dr Henry Loomis](https://mega.nz/file/cKhSTAJZ#AEIGwIMkVDP2s8VMdICHABlV1IdKJZ40q8f502Kq6WM)
 
 ## Looking: The Movie
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/dGpnyZJT#Hervj1bHoiIuHp0ec4jbgw)
-
-## Magic Mike
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/wOJjUJCD#nUVoLybgRNoZ2N7myRRV3Q)
-
-## Spider-Man Homecoming
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/pXpBhD7C#MthQOUoqlwLn2CoREwHBig) [MEGA](https://mega.nz/folder/xHQ1QSLJ#sQGdUJ_adBRLZlhu96iQig)
+- [Dom Basaluzzo](https://mega.nz/file/0CxWHa5Z#OnPBFOeBLO4OKebBNvoRGuC8BePGTMRXJMak2MLTuAI)
 
 ## Superman 2025
 Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/JShgVZ4K#6lF7ufciW80miE3W-lDgPw)
+- [Clark Kent](https://mega.nz/file/taAR1Kqb#eEXFfh8a9sFIwk7HX6z3VOBeVb4tG4vp4yCqj-N_jyw), [Lex Luthor](https://mega.nz/file/0GRnwRCQ#NzOjBfUIR-xq-rP-cKyaNsQyao5DIVsb09kUGI2qhGM), [Superman](https://mega.nz/file/kPQjEQgB#gzRa-1Um-iuAob2KdJ1jjaXZyBAIiLUKJrHv5kQlP1U)
 
 ## The Conjuring: Last Rites
 Packs - 1080P, 23.976 FPS
-- [Brad Hamilton](https://mega.nz/folder/tbQTWDYC#94oyXLBeI2s3uSyDHPzC8A) [Ed Warren](https://mega.nz/folder/VPpDwAKS#T-NNhcehenkLAYURnVDxDA) [Young Ed Warren](https://mega.nz/folder/AWR2yR4B#nen4TCStbsD8GUXOckHmnQ) [Jack Smurl](https://mega.nz/folder/Na5GFJyK#H7flvfyyzEkE9zTIQIXg9A) [Tony Spera](https://mega.nz/folder/VP4jUI5C#AIneXfa2hnE47nTQT0beww)
+- [Brad Hamilton](https://mega.nz/file/gXo21CjK#WbxXZg4sIM9Mn1J3Ux9-Nw8pZ-gTf9g9H7jKK2WmLQc), [Ed Warren](https://mega.nz/file/dXJlhJbD#AA7VFMY7mshbLCa6wbOBtPuagBCJGrEnxLqX99vrMh8), [Young Ed Warren](https://mega.nz/file/lfAx0YaZ#0hYyera40NKCZsgRqpDdxJW0BaZbK2XDBRDwHHxOTPY), [Jack Smurl](https://mega.nz/file/lKhniSqa#XT8uqVZiPa9XSHwn9c59uLsbBhpOr8wrOnvhL4pRuD4), [Tony Spera](https://mega.nz/file/MfgQ0YJC#RfXCX8dhJEGm17oxpAu-Qrn_7GXwai_db7ZyHec_JIA)
 
 ## The Wrong Paris
 Packs - 1080P, 23.976 FPS
@@ -90,7 +78,7 @@ Packs - 1080P, 23.976 FPS
 ## Twilight
 #### - **Twilight Movies Finished 1/5**
 Packs - 1080P, 23.976 FPS
- - [Carlise Cullen](https://mega.nz/folder/8KBmnZ4Z#a0xUnbD9nhW4N_hEGUUuOw) • [Charlie Swan](https://mega.nz/folder/RLIzwBqA#po_r3FagE1FzRmSouGUiOg) • [Edward Cullen](https://mega.nz/folder/RKYB2KKS#2pUM6YxIv-JmXxsa-vsjrg) • [Emmett Cullen](https://mega.nz/folder/YOY2GJ5S#xy5MHN_2rOenI3pVxX78sQ) • [Jacob Black](https://mega.nz/folder/EXpQUCyL#gfuVFgKT5jngpPY4GJFmRg) • [Jasper Hale](https://mega.nz/folder/tOIjELhQ#8gFBHoALM5v_6LtcZQPO6Q)
+ - [Carlise Cullen](https://mega.nz/folder/8KBmnZ4Z#a0xUnbD9nhW4N_hEGUUuOw), [Charlie Swan](https://mega.nz/folder/RLIzwBqA#po_r3FagE1FzRmSouGUiOg), [Edward Cullen](https://mega.nz/folder/RKYB2KKS#2pUM6YxIv-JmXxsa-vsjrg), [Emmett Cullen](https://mega.nz/folder/YOY2GJ5S#xy5MHN_2rOenI3pVxX78sQ), [Jacob Black](https://mega.nz/folder/EXpQUCyL#gfuVFgKT5jngpPY4GJFmRg), [Jasper Hale](https://mega.nz/folder/tOIjELhQ#8gFBHoALM5v_6LtcZQPO6Q)
 
 ## We Need To Talk About Kevin
 Packs - 1080P, 23.976 FPS
