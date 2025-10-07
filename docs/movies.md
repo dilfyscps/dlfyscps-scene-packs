@@ -15,6 +15,10 @@ hero:
 Packs - 1080P, 23.976 FPS
 - [Don Torricelli](https://mega.nz/folder/Yf5kDSBY#c13irlfXG2dNAVB9EyGXQQ)
 
+## Affairs of State
+Packs - 1080P, 23.976 FPS
+- [Michael Lawson](https://mega.nz/file/9awCCZCR#dIVgv7PupEM_vOObziUttjU8L52vtuFiU97Z64g9_i4)
+
 ## All of Us Strangers
 Packs - 1080P, 23.976 FPS
 - Coming Soon
@@ -83,6 +87,10 @@ Packs - 1080P, 23.976 FPS
 Packs - 1080P, 23.976 FPS
 - Coming Soon
 
+## Pearl
+Packs - 1080P, 23.976 FPS
+- [The Projectionist](https://mega.nz/file/YagWGIYS#NsMkIsNY0qpnhG96wqig7vCs347lJLVaIB6PCoe8hLQ)
+
 ## Scream
 Packs - 1080P, 23.976 FPS
 - Coming Soon
@@ -119,6 +127,10 @@ Packs - 1080P, 23.976 FPS
  ## Twinless
 Packs - 1080P, 23.976 FPS
 - Coming Soon
+
+ ## Twisters
+Packs - 1080P, 23.976 FPS
+- [Scott](https://mega.nz/file/lOwhTQCY#vqI-MGHPpl-5SM4wawEjZJao7XbApexI3MDmae-Q0zA)
 
 ## Violent Night
 Packs - 1080P, 23.976 FPS
