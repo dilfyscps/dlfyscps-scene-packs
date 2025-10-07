@@ -15,6 +15,10 @@ hero:
 Packs - 1080P, 23.976 FPS
 - [Don Torricelli](https://mega.nz/folder/Yf5kDSBY#c13irlfXG2dNAVB9EyGXQQ)
 
+## All of Us Strangers
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
 ## Anyone But You
 Packs - 1080P, 23.976 FPS
 - [Ben](https://mega.nz/file/gbhUnS7R#KRwfunQ1vZH9i_6vYK4S5o6oj8Lqc0EcC94vZo8OTEM)
@@ -34,6 +38,14 @@ Packs - 1080P, 23.976 FPS
 ## Enola Holmes
 Packs - 1080P, 23.976 FPS
 - [MEGA](https://mega.nz/folder/EehGSbJA#w35Lg_7JcLaJdoHIwuMETA)
+
+## Fantastic Four: First Steps
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
+## Fantastic Four 2005
+Packs - 1080P, 23.976 FPS
+- Coming Soon
 
 ## Firebird
 Packs - 1080P, 23.976 FPS
@@ -63,6 +75,18 @@ Packs - 1080P, 23.976 FPS
 Packs - 1080P, 23.976 FPS
 - [Dom Basaluzzo](https://mega.nz/file/0CxWHa5Z#OnPBFOeBLO4OKebBNvoRGuC8BePGTMRXJMak2MLTuAI)
 
+## Man of Steel
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
+## Materialists
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
+## Scream
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
 ## Superman 2025
 Packs - 1080P, 23.976 FPS
 - [Clark Kent](https://mega.nz/file/taAR1Kqb#eEXFfh8a9sFIwk7HX6z3VOBeVb4tG4vp4yCqj-N_jyw), [Lex Luthor](https://mega.nz/file/0GRnwRCQ#NzOjBfUIR-xq-rP-cKyaNsQyao5DIVsb09kUGI2qhGM), [Superman](https://mega.nz/file/kPQjEQgB#gzRa-1Um-iuAob2KdJ1jjaXZyBAIiLUKJrHv5kQlP1U)
@@ -71,14 +95,34 @@ Packs - 1080P, 23.976 FPS
 Packs - 1080P, 23.976 FPS
 - [Brad Hamilton](https://mega.nz/file/gXo21CjK#WbxXZg4sIM9Mn1J3Ux9-Nw8pZ-gTf9g9H7jKK2WmLQc), [Ed Warren](https://mega.nz/file/dXJlhJbD#AA7VFMY7mshbLCa6wbOBtPuagBCJGrEnxLqX99vrMh8), [Young Ed Warren](https://mega.nz/file/lfAx0YaZ#0hYyera40NKCZsgRqpDdxJW0BaZbK2XDBRDwHHxOTPY), [Jack Smurl](https://mega.nz/file/lKhniSqa#XT8uqVZiPa9XSHwn9c59uLsbBhpOr8wrOnvhL4pRuD4), [Tony Spera](https://mega.nz/file/MfgQ0YJC#RfXCX8dhJEGm17oxpAu-Qrn_7GXwai_db7ZyHec_JIA)
 
+## The Hunger Games 1
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
 ## The Wrong Paris
 Packs - 1080P, 23.976 FPS
 - [Trey McAllen](https://mega.nz/file/9WwhTAyY#RUrF-4hBKBPNlzr61NdWMdKupnTCWnEgKW9qILZXjIw)
+
+## Thunderbolts
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
+## Together
+Packs - 1080P, 23.976 FPS
+- [Tim](https://mega.nz/file/BfAFwBrS#eu6MlBs7WJFdOK8dcbDp8ukfO5oIiWfrekZrvN53uV8)
 
 ## Twilight
 #### - **Twilight Movies Finished 1/5**
 Packs - 1080P, 23.976 FPS
  - [Carlise Cullen](https://mega.nz/folder/8KBmnZ4Z#a0xUnbD9nhW4N_hEGUUuOw), [Charlie Swan](https://mega.nz/folder/RLIzwBqA#po_r3FagE1FzRmSouGUiOg), [Edward Cullen](https://mega.nz/folder/RKYB2KKS#2pUM6YxIv-JmXxsa-vsjrg), [Emmett Cullen](https://mega.nz/folder/YOY2GJ5S#xy5MHN_2rOenI3pVxX78sQ), [Jacob Black](https://mega.nz/folder/EXpQUCyL#gfuVFgKT5jngpPY4GJFmRg), [Jasper Hale](https://mega.nz/folder/tOIjELhQ#8gFBHoALM5v_6LtcZQPO6Q)
+
+ ## Twinless
+Packs - 1080P, 23.976 FPS
+- Coming Soon
+
+## Violent Night
+Packs - 1080P, 23.976 FPS
+- Coming Soon
 
 ## We Need To Talk About Kevin
 Packs - 1080P, 23.976 FPS
