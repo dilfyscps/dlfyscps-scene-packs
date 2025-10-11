@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "DILFYSCPS"
   text: ""
-  tagline: Official Scenepack Masterlist for DILFYSCPS & CVMSCPS.
+  tagline: ⚠️ WEBSITE IS UNDERCONSTRUCTION, NO SCPS WILL BE ADDED UNTIL ITS FULLY REDONE! ⚠️
   
   actions:
     - theme: brand
