@@ -1,15 +1,6 @@
-    // .vitepress/theme/index.js
-    import DefaultTheme from 'vitepress/theme'
-    import Ticker from './components/Ticker.vue'
-    import './custom.css' // Import your custom CSS
+import DefaultTheme from 'vitepress/theme';
+import './custom.css';
 
-    export default {
-      ...DefaultTheme,
-      //
-      Layout: DefaultTheme.Layout,
-      enhanceApp({ app }) {
-        app.component('Ticker', Ticker)
-      }
-      
-      // You can further enhance the app or override components here if needed
-    }
+export default {
+  extends: DefaultTheme,
+};

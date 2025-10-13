@@ -4,42 +4,23 @@ layout: home
 
 
 hero:
-  name: "CELEB SCENEPACKS"
+  name: "MALE CELEBRITIES"
   text: ""
-  tagline: Scenepack Requests are open!
+  tagline: 
 ---
 
 - [BACK TO HOMEPAGE](/index)
 
+## Before you download my Scenepacks!
+➤ My scenepacks are way easier to download with the MEGA APP.
 
-## DAVID CORENSWET
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/EfYwiJQT#ihUxfBU6ERk-5Z3dU9-7Vg)
----
+Make sure you download it below if you haven't already!
 
-## PEDRO PASCAL
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/9bZHnZzI#txdLOW0QIR2xDfDYEt0raw)
----
+| Operating System | Download Link | Information |
+|---|---|---|
+| Windows 64-bit | [Click Here](https://mega.nz/MEGAsyncSetup64.exe) | For Windows 8 and higher, Windows Server 2012 and higher. |
+| Windows 32-bit | [Click Here](https://mega.nz/MEGAsyncSetup32.exe) | For Windows 8 and higher, Windows Server 2012 and higher. |
+| Macos Intel | [Click Here](https://mega.nz/MEGAsyncSetup.dmg) | For Macs with Intel chips running macOS Catalina 10.15+ |
+| Macos Apple Silicon | [Click Here](https://mega.nz/MEGAsyncSetupArm64.dmg) | For Macs with M1+ chips running macOS Big Sur 11+ |
 
-## TOM HARDY
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/Aeg0GSJD#n3yj37J-tjd2RHMOI6S8dg)
----
-
-## JONATHAN BAILEY
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/EXpB2YqZ#mQ4ss0TGZYTRBbL3CtUP7Q)
----
-
-## NICHOLAS HOULT
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/5HRFyRQZ#QcCRdS7dTPdC5y6PQzp8ew)
----
-
-## TOM HOLLAND
-Packs - 1080P, 23.976 FPS
-- [MEGA](https://mega.nz/folder/hHhEEZCY#tgbh6Ug2ihSDa5Bj2QtCxQ
-)
-
----
+## COMING SOON

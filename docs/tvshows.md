@@ -6,51 +6,87 @@ layout: home
 hero:
   name: "TV SHOWS"
   text: ""
-  tagline: Scenepack Requests are open!
+  tagline: 
 ---
 
 - [BACK TO HOMEPAGE](/index)
 
-## Fellow Travelers
-Packs - 1080P, 23.976 FPS
-- [Hawkins Fuller](https://mega.nz/folder/9GI2RSYD#X75QLPfqIxxgiQSP6XaEzA), [Tim Laughlin](https://mega.nz/folder/YGhllDpY#Rd13LeX3_0XLyowNUkHYtQ), [Tim & Hawk Sex Scenes](https://mega.nz/folder/wOgWmRZJ#8JVofaPTJ_L0AYbXOqWxRg)
+## Before you download my Scenepacks!
+➤ My scenepacks are way easier to download with the MEGA APP.
 
-## Gen V : Season 2
-Packs - 1080P, 23.976 FPS
-- [Dean Cipher](https://mega.nz/folder/pHhhUBqL#zabT4ua1Rh6Frr4ruCgpJA), [Jordan Li](https://mega.nz/folder/BahBHS7J#UWraNzUeDbnm7ZTliMohpA), [Rufus McCurdy](https://mega.nz/folder/kLwTgIiI#3TZ5lIICkWbNHbFP0Y_zww), [The Deep](https://mega.nz/folder/8XYCmD4D#Ki6qG_2t9GfPDQ6PgyiTVQ)
+Make sure you download it below if you haven't already!
 
-## Looking
-Packs - 1080P, 23.976 FPS
-- [Dom Basaluzzo](https://mega.nz/folder/lWpRWaxa#KXN66qwCUwkRNwPKC2batQ)
+| Operating System | Download Link | Information |
+|---|---|---|
+| Windows 64-bit | [Click Here](https://mega.nz/MEGAsyncSetup64.exe) | For Windows 8 and higher, Windows Server 2012 and higher. |
+| Windows 32-bit | [Click Here](https://mega.nz/MEGAsyncSetup32.exe) | For Windows 8 and higher, Windows Server 2012 and higher. |
+| Macos Intel | [Click Here](https://mega.nz/MEGAsyncSetup.dmg) | For Macs with Intel chips running macOS Catalina 10.15+ |
+| Macos Apple Silicon | [Click Here](https://mega.nz/MEGAsyncSetupArm64.dmg) | For Macs with M1+ chips running macOS Big Sur 11+ |
 
-## Monster: The Ed Gein Story
-Packs - 1080P, 23.976 FPS
-- [Ed Gein](https://mega.nz/folder/9CIB1CDS#f_7bHI1HJADwgwdbtxpK5Q)
+### ✦ BOOTS
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-## Peacemaker
-Packs - 1080P, 23.976 FPS
-- [Vigilante](https://mega.nz/folder/wHRn3ara#0qEaqMDCw-8-lTYSboNemA)
+⟡ [Robert Sullivan](https://mega.nz/file/4TI30Y5C#cVjaLx8hZm_8p1ghHe8FzE84mP-1MTXu39qx9I_EM58)
 
-## Reacher
-Packs - 1080P, 23.976 FPS
-- [Season 1](https://mega.nz/folder/EDgRiC6T#6Kvxd1BHler2cabHrTR9zw), [Season 2](https://mega.nz/folder/RLwkFKhQ#n19smQOErzLah6RZl_BoDQ), [Season 3](https://mega.nz/folder/YG5lya7D#x9o5TQHg4Vz5H3q71GszCw)
+⟡ [Sergeant Pitowsk](https://mega.nz/file/ML43FThQ#rTsz2amF73Yg_Fk5Pt6cG3c5GETB0Gy3fT8WGTCv-O0) 
 
-## The Politician
-Packs - 1080P, 23.976 FPS
-- [River Barkley](https://mega.nz/folder/BHJSkTqD#88m1XKUNbruhcCuicJnlfA)
+⟡ [Thaddeus Hicks](https://mega.nz/file/VaQRnZCB#p_xgo6-icubdr_iHWyEqYWTm5kfQPGRGvlb4ZI2ipDo)
 
-## The Rainmaker
-Packs - 1080P, 23.976 FPS
-- [Rudy Baylor](https://mega.nz/folder/pWpEWaha#whrAEzJk3TXSxfiam-LNTQ)
+## ✦ Fellow Travelers
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-## We Own This City
-Packs - 1080P, 23.976 FPS
-- [David McDougal](https://mega.nz/folder/BeoAUT4C#m7WHl1KqCBX44dBwH20OBQ)
+⟡ [Hawkins Fullen](https://mega.nz/folder/9GI2RSYD#X75QLPfqIxxgiQSP6XaEzA)
 
-## Wednesday : Season 2 Part 1
-Packs - 1080P, 23.976 FPS
-- [Ajax Petropolus](https://mega.nz/folder/kWAwmALJ#e_9gcIXcuLT3gmLskb4UMQ), [Bruno Yuson](https://mega.nz/folder/cWBWADRB#Kg8QtAsWsVEaUqFL-9oVuA), [Tyler Gaplin](https://mega.nz/folder/wWB30LgQ#jyvmAvM8vF47VnvPsddGkA)
+⟡ [Tim Laughlin](https://mega.nz/folder/YGhllDpY#Rd13LeX3_0XLyowNUkHYtQ)
 
-## Wednesday : Season 2 Part 2
-Packs - 1080P, 23.976 FPS
-- [Ajax Petropolus](https://mega.nz/folder/UGIC2LwL#dV6KHam0lOeoMO86uPFCdQ), [Bruno Yuson](https://mega.nz/folder/cPxzmb6D#D6iNjl8fuCqUvtEypYO-AQ), [Isaac Night](https://mega.nz/folder/ZDgy3J6Y#0yugMHMiCkLqdrBxLtU9zA), [Tyler Gaplin](https://mega.nz/folder/IPBDVTBa#qGUHqXwW1Liw_IeTsjCMMA)
+⟡ [Tim & Hawk](https://mega.nz/folder/wOgWmRZJ#8JVofaPTJ_L0AYbXOqWxRg)
+
+## ✦ Gen V ; Season 2
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Dean Cipher](https://mega.nz/folder/pHhhUBqL#zabT4ua1Rh6Frr4ruCgpJA)
+
+⟡ [Jordan Li](https://mega.nz/folder/BahBHS7J#UWraNzUeDbnm7ZTliMohpA)
+
+⟡ [Rufus McCurdy](https://mega.nz/folder/kLwTgIiI#3TZ5lIICkWbNHbFP0Y_zww)
+
+⟡ [The Deep](https://mega.nz/folder/8XYCmD4D#Ki6qG_2t9GfPDQ6PgyiTVQ)
+
+## ✦ Looking
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Dom Basaluzzo S1](https://mega.nz/file/JXADiQKa#b67m63fwkkdwA_26F0HJIJW3pN5rYHLC9UcXNV00yiA)
+
+⟡ [Dom Basaluzzo S2](https://mega.nz/file/UXJSWCIL#SBH13eCr4oGhGCP2qQ-Kgs2xRMexdOqQWSyerPM0jtM)
+
+## ✦ Peacemaker
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Vigilante]()
+
+## ✦ Reacher
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Reacher S1](https://mega.nz/folder/EDgRiC6T#6Kvxd1BHler2cabHrTR9zw)
+
+⟡ [Reacher S2](https://mega.nz/folder/RLwkFKhQ#n19smQOErzLah6RZl_BoDQ)
+
+## ✦ The Ed Gein Story
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Ed Gein](https://mega.nz/folder/cPo1FAhS#IAv2m-Eteo9a6gFX4bfwCQ)
+
+## ✦ The Politician
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [River Barkley](https://mega.nz/folder/xWwxzKBB#eno-plBNYXnz3kh22P9ufQ)
+
+## ✦ We Own This City
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [David McDougal](https://mega.nz/folder/ZeQ10AoJ#NKm-Ne5DX9cC4fYNgHqyQw)
+
+## ✦ Wednesday
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [All Male Characters P1 & P2](https://mega.nz/folder/VG4nVITJ#iPG9stK5wrv5UCchv-Z-Aw)

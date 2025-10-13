@@ -4,46 +4,51 @@ layout: home
 
 
 hero:
-  name: "TEASERS & TRAILERS"
+  name: "TRAILERS & TEASERS"
   text: ""
-  tagline: Scenepack Requests are open!
+  tagline: 
 ---
 
 - [BACK TO HOMEPAGE](/index)
 
+## Before you download my Scenepacks!
+➤ My scenepacks are way easier to download with the MEGA APP.
 
-## The Ed Gein Story - Official Trailers
-Packs - 1080P, 23.976 FPS
+Make sure you download it below if you haven't already!
 
-- [MEGA](https://mega.nz/folder/VXg12DhQ#s_12dE1nw8t-lRz6VnSWmg)
----
+| Operating System | Download Link | Information |
+|---|---|---|
+| Windows 64-bit | [Click Here](https://mega.nz/MEGAsyncSetup64.exe) | For Windows 8 and higher, Windows Server 2012 and higher. |
+| Windows 32-bit | [Click Here](https://mega.nz/MEGAsyncSetup32.exe) | For Windows 8 and higher, Windows Server 2012 and higher. |
+| Macos Intel | [Click Here](https://mega.nz/MEGAsyncSetup.dmg) | For Macs with Intel chips running macOS Catalina 10.15+ |
+| Macos Apple Silicon | [Click Here](https://mega.nz/MEGAsyncSetupArm64.dmg) | For Macs with M1+ chips running macOS Big Sur 11+ |
 
-## Frankenstein - Official Trailers
-Packs - 4K, 23.976 FPS
+## ✦ Wake Up Dead Man
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-- [MEGA](https://mega.nz/folder/ZTJAjb4D#tEjOlT9SYRrsVr1TCLr0uw)
----
+⟡ [MEGA Link](https://mega.nz/folder/RLY0mYAB#FA-mS4oUHZlYKf4iauO1-Q)
 
-## Now You See Me; Now You Don't - Official Trailers
-Packs - 1080P, 23.976 FPS
+## ✦ The Witcher: Season 4
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-- [MEGA](https://mega.nz/folder/5CJGCJaI#PoqBxDGJq0MZiJ1hr7sXDQ)
----
+⟡ [MEGA Link](https://mega.nz/folder/ASQB0IrI#tUo3TbzODdTSVZimpltz1w)
 
-## The Rip - Offical Trailers
-Packs - 1080P, 23.976 FPS
+## ✦ The Rip
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-- [MEGA](https://mega.nz/folder/JDBBSKYK#fjgmP438TKgqGfVkjcg80A)
----
+⟡ [MEGA Link](https://mega.nz/folder/JDBBSKYK#fjgmP438TKgqGfVkjcg80A)
 
-## The Witcher Season 4 - Official Trailers
-Packs - 1080P, 23.976 FPS
+## ✦ Now You See Me: Now You Dont
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-- [MEGA](https://mega.nz/folder/ASQB0IrI#tUo3TbzODdTSVZimpltz1w)
----
+⟡ [MEGA Link](https://mega.nz/folder/5CJGCJaI#PoqBxDGJq0MZiJ1hr7sXDQ)
 
-## Wake Up Dead Man - Official Trailers
-Packs - 1080P, 23.976 FPS
+## ✦ House of Guinness
+[ Quality High ___1080P___, FPS ___23.976___ ]
 
-- [MEGA](https://mega.nz/folder/RLY0mYAB#FA-mS4oUHZlYKf4iauO1-Q)
----
+⟡ [MEGA Link](https://mega.nz/folder/NL4BAYJC#XYlwzLV8G5N7DzR2O3H_Iw)
+
+## ✦ Frankenstein
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [MEGA Link](https://mega.nz/folder/ZTJAjb4D#tEjOlT9SYRrsVr1TCLr0uw)

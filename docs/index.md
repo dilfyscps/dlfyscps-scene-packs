@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "DILFYSCPS"
   text: ""
-  tagline: ⚠️ WEBSITE IS UNDERCONSTRUCTION, NO SCPS WILL BE ADDED UNTIL ITS FULLY REDONE! ⚠️
+  tagline: Official Scenepack Directory
   
   actions:
     - theme: brand
@@ -32,20 +32,13 @@ features:
   - title: TRAILERS
     details: Scenepacks of TRAILERS. Example "The Ed Gein Story" & "Wicked For Good"
     link: /trailers
-  - title: CELEBS
+  - title: MALE CELEBRITIES
     details: Scenepacks of CELEBS. Example "Pedro Pascal" & "David Corenswet"
     link: /celebs
-  - title: TIKTOKERS
-    details: Scenepacks of TV SHOWS. Example "Bach Buquen" & "Vinnie Hacker"
-    link: /tiktokers
-  - title: ONLYFANS CREATORS
-    details: Scenepacks of ONLYFANS CREATORS. Example "Jakipz " & "Loganwall"
-    link: /onlyfans
-  - title: OTHERS
-    details: Scenepacks of Random People.
-    link: /others
+  - title: TIKTOKERS & ONLYFANS CREATORS
+    details: Scenepacks of TIKTOKERS/OF CREATORS. Example "Bach Buquen" & "Vinnie Hacker", "Jakipz " & "Loganwall"
+    link: /tiktokersandonlyfans
+
 ---
 
 
-## Credit Details
-If you're going to use my scenepacks please credit [Ktrivae](https://tiktok.com/@ktrivae) or [Dilfyscps](https://www.instagram.com/dilfyscps/)
