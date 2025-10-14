@@ -129,6 +129,11 @@ Make sure you download it below if you haven't already!
 ⟡ [Jack Smurl](https://mega.nz/file/lKhniSqa#XT8uqVZiPa9XSHwn9c59uLsbBhpOr8wrOnvhL4pRuD4)
 ⟡ [Tony Spera](https://mega.nz/file/MfgQ0YJC#RfXCX8dhJEGm17oxpAu-Qrn_7GXwai_db7ZyHec_JIA)
 
+## ✦ The Sasquatch Gang
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Gavin Gore](htthttps://mega.nz/file/hfhkESBD#zoulwa3j6FxxhZQ6F2Cwg3yvAYuJM68YHw1uhEhnRs8)
+
 ## ✦ The Wrong Paris
 [ Quality High ___1080P___, FPS ___23.976___ ]
 
