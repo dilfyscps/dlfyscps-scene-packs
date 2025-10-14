@@ -2,8 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  cleanUrls: true,
-  base: '/',
+  
 
   title: "DILFYSCPS",
   description: "Scenepack Directory",
