@@ -37,8 +37,12 @@ Make sure you download it below if you haven't already!
 ## ✦ All of Us Strangers
 [ Quality High ___1080P___, FPS ___23.976___ ]
 
-⟡ [Adam](https://mega.nz/file/RGZVTIJY#WPN9dRFRAjG-ZJR0vJsPQ-nKgryczU9Dy8Ri0CUOQhM)
-⟡ [Harry](https://mega.nz/file/kWQkzaqS#EfPudlCoLZ7D-XOpANLBiPlmzYJsrpMJ-BdSLhjvFOQ)
+⟡ [Count Vronsky](https://mega.nz/file/RGZVTIJY#WPN9dRFRAjG-ZJR0vJsPQ-nKgryczU9Dy8Ri0CUOQhM)
+
+## ✦ Anna Karenina
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Count Vronsky](https://mega.nz/folder/obRikDyT#BELLTAb22Bf_mFwDjtu1-g)
 
 ## ✦ Anyone But You
 [ Quality High ___1080P___, FPS ___23.976___ ]
