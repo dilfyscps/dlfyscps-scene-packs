@@ -32,6 +32,8 @@ Make sure you download it below if you haven't already!
 
 ⟡ [Thaddeus Hicks](https://mega.nz/file/VaQRnZCB#p_xgo6-icubdr_iHWyEqYWTm5kfQPGRGvlb4ZI2ipDo)
 
+⟡ [Nicholas Slovacek](https://mega.nz/folder/FOQkDAQa#aAcEWhwroh0OYJqsRMWVew)
+
 ## ✦ Fellow Travelers
 [ Quality High ___1080P___, FPS ___23.976___ ]
 
