@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  cleanUrls: true,
 
-  
   title: "DILFYSCPS",
   description: "Scenepack Directory",
   head: [['link', { rel: 'icon', href: 'docs/public/favicon.ico' }]],
