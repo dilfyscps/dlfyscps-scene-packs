@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  // Other config...
+  cleanUrls: true,
   themeConfig: {
     // Other theme options...
   },
