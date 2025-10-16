@@ -107,6 +107,11 @@ Make sure you download it below if you haven't already!
 
 ⟡ [Dom Basaluzzo](https://mega.nz/file/0CxWHa5Z#OnPBFOeBLO4OKebBNvoRGuC8BePGTMRXJMak2MLTuAI)
 
+## ✦ Mickey 17
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Mickey Barnes](https://mega.nz/file/VbJBxbDY#T3hp7ddeqVGX9zyixixpU84Ayc62EFS3P6Im-I9Sf9c)
+
 ## ✦ Pearl 
 [ Quality High ___1080P___, FPS ___23.976___ ]
 
