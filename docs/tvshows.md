@@ -54,6 +54,11 @@ Make sure you download it below if you haven't already!
 
 ⟡ [The Deep](https://mega.nz/folder/8XYCmD4D#Ki6qG_2t9GfPDQ6PgyiTVQ)
 
+## ✦ Hollywood
+[ Quality High ___1080P___, FPS ___23.976___ ]
+
+⟡ [Jack Castello](https://mega.nz/folder/5OAgzCwY#jO_PmsLLK55QnO5DibO9Kw)
+
 ## ✦ Looking
 [ Quality High ___1080P___, FPS ___23.976___ ]
 
